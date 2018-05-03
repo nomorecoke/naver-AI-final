@@ -17,7 +17,8 @@ AI 전문가들과 함께 문제 해결 방법을 고민하고 경험을 공유�
 지금 바로 <strong>네이버 AI 해커톤 2018</strong>에 참여해서<br>
 서로의 경험을 공유하고, 다양하고 창의적인 방법으로 문제를 해결해 보세요!
 
-[![안내 및 문제 소개](res/cSGPHtzPFQ.png)](https://youtu.be/cSGPHtzPFQw)
+[![안내 및 문제 소개](https://youtu.be/cSGPHtzPFQw)
+
 
 
 
