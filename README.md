@@ -1,8 +1,3 @@
-2ND price at final 
-
-
-
-
 # 네이버 AI 해커톤 2018
 
 "한계를 넘어 상상에 도전하자!"
@@ -25,47 +20,36 @@ AI 전문가들과 함께 문제 해결 방법을 고민하고 경험을 공유�
 [안내 및 문제 소개](https://youtu.be/cSGPHtzPFQw)
 
 
+# 영화 평점 예측
+
+**보고 싶고 알고 싶은 영화의 모든 것! 네이버 영화 평점을 예측해 보세요!**
+
+네이버 영화는 영화 정보, 영화 평, 영화 인물 정보를 한 눈에 볼 수 있고, 영화 예매까지 한꺼번에 할 수 있어서 많은 분들이 좋아하는 서비스입니다. 특히 네이버 영화 평점은 개봉 전 영화에 대한 기대평이나 개봉작에 대한 관람 후 평가를 등록하는 기능입니다. 140자 평과 함께 평점을 등록할 수 있어 영화를 좋아하는 많은 사람이 참고하는 정보가 되고 있습니다.
+
+영화와 처음 만나는 곳! 네이버 영화는 어떻게 하면 더 신뢰할 수 있는 평점을 제공할 수 있을까 항상 고민하고 있습니다. 어떠한 영화 평을 작성했을 때 그 영화 평에 가장 합당한 평점을 예측할 수 있다면 더 객관적이고 신뢰할 수 있는 평점이 되지 않을까요?
+
+여러분은 이를 위해 기존 영화 평과 평점을 학습해, 주어진 영화 평에 가장 알맞는 평점이 몇 점인지 예측하는 모델을 개발해야 합니다.
+
+# 데이터 구조
+
+| 영화 평 | 평점|
+| ----- | ---- |
+| 영화를 이루는 모든 요소가 완전하다 | 10 |
+| 너무 흥미롭고 단 한순간도 지루할틈이 없었다 | 9 |
+| 이해는 하나 공감은 할 수 없는 영화 | 7 |
+| 진짜 이 영화 무슨 내용인지 모르겠네 | 2 |
 
 
-## 일정
-<table class="tbl_schedule">
-  <tr>
-    <th style="text-align:left;width:50%">일정</th>
-    <th style="text-align:center;width:15%">기간</th>
-    <th style="text-align:left;width:35%">장소</th>
-  </tr>
-  <tr>
-    <td>
-      <strong>참가 신청</strong><br>
-      2018년 3월 12일(월)~3월 25일(일)
-    </td>
-    <td style="text-align:center">2주</td>
-    <td>
-      참가 신청 마감
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>예선</strong><br>
-      2018년 4월 2일(월)~4월 16일(월)
-    </td>
-    <td style="text-align:center">2주</td>
-    <td>
-      온라인<br>
-      <a href="https://hack.nsml.navercorp.com">https://hack.nsml.navercorp.com</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>결선</strong><br>
-      2018년 4월 26일(목)~4월 27일(금)
-    </td>
-    <td style="text-align:center">1박 2일</td>
-    <td>
-      네이버 커넥트원(춘천)<br>
-    </td>
-  </tr>
-</table>
+# Model
+Bi-directional LSTM + multi-layer CNN + Fully connect layer
+
+# Score
+Mse : 2.67
+2ND price at final 
+
+
+
+
 
 
 ## License
