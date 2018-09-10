@@ -1,21 +1,6 @@
 # 네이버 AI 해커톤 2018
 
-"한계를 넘어 상상에 도전하자!"
-
-인간이 오감을 활용하는 것처럼 AI도 인간의 오감을 모두 활용하는 방향으로 나아갈 것입니다.<br>
-또한, 인터넷과 모바일이 세상을 크게 변화시킨 것처럼 AI 역시 세상을 크게 변화시킬 것이며 그 영향력은 더욱 커질 것입니다.<br>
-네이버는 AI와 함께 더 편리하고 행복한 미래를 만들기 위해 **네이버 AI 해커톤 2018**을 준비했습니다.<br>
-
-특히, 이번 네이버 AI 해커톤 2018은 네이버의 클라우드 머신러닝 플랫폼인 <strong>[NSML](https://hack.nsml.navercorp.com/intro)</strong>과 함께 합니다.
-
-<strong>NSML(Naver Smart Machine Learning)</strong>은 모델을 연구하고 개발하는 데 필요한 복잡한 과정을 대신 처리해주어<br>
-연구 개발자들이 "모델 개발"에만 전념할 수 있고, 다양한 시도를 쉽게 할 수 있는 창의적인 환경을 제공할 것입니다.
-
-AI를 통해 복잡한 문제를 해결하고 싶나요?<br>
-AI 전문가들과 함께 문제 해결 방법을 고민하고 경험을 공유하고 싶다고요?
-
-지금 바로 <strong>네이버 AI 해커톤 2018</strong>에 참여해서<br>
-서로의 경험을 공유하고, 다양하고 창의적인 방법으로 문제를 해결해 보세요!
+이번 네이버 AI 해커톤 2018은 네이버의 클라우드 머신러닝 플랫폼인 <strong>[NSML](https://hack.nsml.navercorp.com/intro)</strong>과 함께 합니다.
 
 [안내 및 문제 소개](https://youtu.be/cSGPHtzPFQw)
 
@@ -41,8 +26,9 @@ AI 전문가들과 함께 문제 해결 방법을 고민하고 경험을 공유�
 
 
 # Model
-Character Level Embedding + Bi-directional LSTM + multi-layer CNN + Fully connect layer
--> Code is private but you can see details with [my paper](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07503227)
+## Character Level Embedding + Bi-directional LSTM + multi-layer CNN + Fully connect layer
+
+-><strong>Code is private but you can see details with [my paper](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07503227)</strong>
 
 
 # Score
