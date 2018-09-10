@@ -41,7 +41,9 @@ AI 전문가들과 함께 문제 해결 방법을 고민하고 경험을 공유�
 
 
 # Model
-Bi-directional LSTM + multi-layer CNN + Fully connect layer
+Character Level Embedding + Bi-directional LSTM + multi-layer CNN + Fully connect layer
+-> Code is private but you can see details with [my paper](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07503227)
+
 
 # Score
 Mse : 2.67
