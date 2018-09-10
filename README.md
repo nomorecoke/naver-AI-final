@@ -26,7 +26,7 @@
 
 
 # Model
-## Character Level Embedding + Bi-directional LSTM + multi-layer CNN + Fully connect layer
+Character Level Embedding + Bi-directional LSTM + multi-layer CNN + Fully connect layer
 
 -><strong>Code is private but you can see details with [my paper](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07503227)</strong>
 
