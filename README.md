@@ -1,3 +1,8 @@
+This repository is merged for team organization
+
+you can see new version at https://github.com/zero-cola 
+
+
 # 네이버 AI 해커톤 2018
 
 이번 네이버 AI 해커톤 2018은 네이버의 클라우드 머신러닝 플랫폼인 <strong>[NSML](https://hack.nsml.navercorp.com/intro)</strong>과 함께 합니다.
